@@ -10,8 +10,8 @@
        ^ \\s* (\\s* /[*] .* [*]/ \\s*)* \\}
       |^ \\s* (\\s* /[*] .* [*]/ \\s*)* \\)
       '
-    'tabLength': 4
-    'softTabs': true
+    #'tabLength': 4
+    #'softTabs': true
     'preferredLineLength': 99
   'bracket-matcher':
     autocompleteCharacters: [
